@@ -1,4 +1,4 @@
-IadCbBundle
+IadCbBundle V2
 ===========
 
 Iad club business Bundle
